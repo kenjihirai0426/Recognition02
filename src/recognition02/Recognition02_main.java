@@ -17,7 +17,7 @@ public class Recognition02_main {
 	public static void main(String[] args){
 
 		VisualRecognition service = new VisualRecognition("2018-03-19");
-		service.setApiKey("3e87906cfed8e336b0a33d10c5fd73e020234fa9");
+		service.setApiKey("J16016");
 
 		InputStream imagesStream = null;
 		MySQL mysql = new MySQL();
